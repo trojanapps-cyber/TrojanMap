@@ -1,0 +1,119 @@
+{
+    "features": [
+        {
+            "feature_type": "footprint",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                          -85.08086486,
+                          33.56553340
+                        ],
+                        [
+                          -85.08058668,
+                          33.56641173
+                        ],
+                        [
+                          -85.08063654,
+                          33.56647384
+                        ],
+                        [
+                            -85.08081907,
+                            33.56647624
+                        ],
+                        [
+                          -85.08061875,
+                          33.565528456
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "9748dc5b-3f08-407b-9a8d-f5ed626bf9e8",
+            "properties": {
+                "building_ids": [
+                    "26f04b4f-9ae2-45e3-99d1-393c66d58eb4"
+                ],
+                "category": "ground",
+                "name": null
+            },
+            "type": "Feature"
+        },
+        {
+            "feature_type": "footprint",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                          -85.080421,
+                          33.566498
+                        ],
+                        [
+                          -85.080547,
+                          33.565349
+                        ],
+                        [
+                          -85.080818,
+                          33.565321
+                        ],
+                        [
+                          -85.080548,
+                          33.566389
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "e69bb23d-8039-465d-93b5-64aaed6ec9ef",
+            "properties": {
+                "building_ids": [
+                    "26f04b4f-9ae2-45e3-99d1-393c66d58eb4"
+                ],
+                "category": "aerial",
+                "name": null
+            },
+            "type": "Feature"
+        },
+        {
+            "feature_type": "footprint",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                          -85.08061875,
+                          33.565528456
+                        ],
+                        [
+                          -85.08086486,
+                          33.56553340
+                        ],
+                        [
+                          -85.08058668,
+                          33.56641173
+                        ],
+                        [
+                          -85.08063654,
+                          33.56647384
+                        ],
+                        [
+                            -85.08081907,
+                            33.56647624
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "8657dc5b-3f08-407b-9a8d-f5ed626bf9e8",
+            "properties": {
+                "building_ids": [
+                    "26f04b4f-9ae2-45e3-99d1-393c66d58eb4"
+                ],
+                "category": "subterranean",
+                "name": null
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "footprint",
+    "type": "FeatureCollection"
+}
