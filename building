@@ -1,0 +1,76 @@
+{
+    "features": [
+        {
+            "feature_type": "building",
+            "geometry": null,
+            "id": "26f04b4f-9ae2-45e3-99d1-393c66d58eb4",
+            "properties": {
+                "address_id": "e105efb7-b0d1-4144-8b8e-72eadf95724f",
+                "alt_name": null,
+                "category": "unspecified",
+                "display_point": {
+                    "coordinates": [
+                        -85.081354,
+                        33.566277
+                    ],
+                    "type": "Point"
+                },
+                "name": {
+                    "en": "Carrollton High School"
+                },
+                "restriction": null
+            },
+            "type": "Feature",
+            
+        },
+        {
+            "feature_type": "building",
+            "geometry": null,
+            "id": "26f04b4f-cues-45e3-99d1-393c66d58eb4",
+            "properties": {
+                "address_id": "e105efb7-cues-4144-8b8e-72eadf95724f",
+                "alt_name": null,
+                "category": "unspecified",
+                "display_point": {
+                    "coordinates": [
+                        -85.080756,
+                        33.569575
+                    ],
+                    "type": "Point"
+                },
+                "name": {
+                    "en": "Carrollton Upper Elementary School"
+                },
+                "restriction": null
+            },
+            "type": "Feature",
+            
+        }
+    ],
+    "features": [
+        {
+            "feature_type": "building",
+            "geometry": null,
+            "id": "26f04b4f-9ae2-45e3-99d1-393c66d58eb3",
+            "properties": {
+                "address_id": "e105efb7-b0d1-4144-8b8e-72eadf95724f",
+                "alt_name": null,
+                "category": "unspecified",
+                "display_point": {
+                    "coordinates": [
+                        -85.080556,
+                        33.564939
+                    ],
+                    "type": "Point"
+                },
+                "name": {
+                    "en": "Mabry Arts Center"
+                },
+                "restriction": null
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "building",
+    "type": "FeatureCollection"
+}
