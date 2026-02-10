@@ -1,0 +1,276 @@
+{
+    "features": [
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e38",
+            "properties": {
+                "address_id": "e105efb7-b0d1-4144-8b8e-72eadf95724f",
+                "alt_name": null,
+                "anchor_id": "f353425b-472c-4b80-aefb-98e03a3d3f11",
+                "category": "entry",
+                "display_point": {
+                    "coordinates": [
+                        -85.080673,
+                        33.5659082                      ],
+                    "type": "Point"
+                },
+                "hours": "Mo-Fr 07:45-3:45",
+                "name": {
+                    "en": "Front Atrium"
+                },
+                "phone": "+17708347726",
+                "restriction": null,
+                "website": "https://chs.carrolltoncityschools.net",
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "83b975a6-6e63-46f6-b207-062e95260b0f",
+                "category": "office",
+                "display_point": {
+                    "coordinates": [
+	                    -85.081163,
+	                    33.566219
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Su-Sa 09:00-17:00",
+                "name": {
+                    "en": "Media Center"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "54e1700d-d4e2-412a-a15d-3c99d9a31278",
+                "category": "aed",
+                "display_point": {
+                    "coordinates": [
+                        -85.08063,
+                        33.56554
+                      ],
+                    "type": "Point"
+                },
+                "hours": "A112  Workroom",
+                "name": {
+                    "en": "AED"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "54e1700d-d4e2-412a-a15d-3c99d9a31282",
+                "category": "aed",
+                "display_point": {
+                    "coordinates": [
+                        -85.081744,
+                        33.566168
+                      ],
+                    "type": "Point"
+                },
+                "hours": "A112  Workroom",
+                "name": {
+                    "en": "AED"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "54e1700d-d4e2-412a-a15d-3c99d9a31280",
+                "category": "aed",
+                "display_point": {
+                    "coordinates": [
+                        -85.081174,
+                        33.566785
+                      ],
+                    "type": "Point"
+                },
+                "hours": "C203  Workroom",
+                "name": {
+                    "en": "AED"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "54e1700d-d4e2-412a-a15d-3c99d9a31279",
+                "category": "bleedKit",
+                "display_point": {
+                    "coordinates": [
+                        -85.081064,
+                        33.566233
+                      ],
+                    "type": "Point"
+                },
+                "hours": "A224  Workroom?",
+                "name": {
+                    "en": "Bleed Kit"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e40",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "54e1700d-d4e2-412a-a15d-3c99d9a31277",
+                "category": "bleedKit",
+                "display_point": {
+                    "coordinates": [
+                        -85.081245, 33.566278
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Media Center Bleed Kit",
+                "name": {
+                    "en": "Bleed Kit"
+                },
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e40",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "f353425b-472c-4b80-aefb-98e03a3d3f11",
+                "category": "office",
+                "display_point": {
+                    "coordinates": [
+                        -85.080814, 33.5660725
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Su-Sa 09:00-17:00",
+                "name": {
+                    "en": "Trojan Store"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        
+        
+        
+        
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e41",
+            "properties": {
+                "address_id": null,
+                "alt_name": null,
+                "anchor_id": "76336b53-81c9-4c93-8f81-a4c008d54ba1",
+                "category": "office",
+                "display_point": {
+                    "coordinates": [
+                        -85.081602, 33.5659335
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Su-Sa 09:00-17:00",
+                "name": {
+                    "en": "Cafeteria"
+                },
+                "phone": "+14087924512",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "Occupant",
+    "type": "FeatureCollection"
+}
