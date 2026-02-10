@@ -1,0 +1,36 @@
+{
+    "features": [
+        {
+            "feature_type": "address",
+            "geometry": null,
+            "id": "e105efb7-b031-4144-8b8e-72eadf95724f",
+            "properties": {
+                "address": "201 Trojan Drive",
+                "country": "US",
+                "locality": "Carrollton",
+                "postal_code": "30117",
+                "postal_code_ext": null,
+                "province": "US-GA",
+                "unit": null
+            },
+            "type": "Feature"
+        },
+        {
+            "feature_type": "address",
+            "geometry": null,
+            "id": "e105efb7-cues-4144-8b8e-72eadf95724f",
+            "properties": {
+                "address": "510 Ben Scott Blvd",
+                "country": "US",
+                "locality": "Carrollton",
+                "postal_code": "30117",
+                "postal_code_ext": null,
+                "province": "US-GA",
+                "unit": null
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "address",
+    "type": "FeatureCollection"
+}
