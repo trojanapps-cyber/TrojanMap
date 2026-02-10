@@ -1,54 +1,70 @@
 {
-    "features": [
-        {
-            "feature_type": "venue",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                          -85.080831,
-                          33.566098
-                        ],
-                        [
-                            -85.080585,
-                          33.566098
-                        ],
-                        [
-                          -85.080585,
-                          33.565857
-                        ],
-                        [
-                          -85.080831,
-                          33.565857
-                        ]
-                    
-                    ]
-                ],
-                "type": "Polygon"
-            },
-            "id": "c3ec5ea2-8839-434a-a7a8-34dbe35c9a4c",
-            "properties": {
-                "address_id": "e105efb7-b0d1-4144-8b8e-72eadf95724f",
-                "alt_name": null,
-                "category": "Media Center",
-                "display_point": {
-                    "coordinates": [
-                        -85.081147,
-                        33.566214
-                    ],
-                    "type": "Point"
-                },
-                "hours": "Su-Sa 09:00-17:00",
-                "name": {
-                    "en": "Media Center"
-                },
-                "phone": null,
-                "restriction": null,
-                "website": "https://developer.apple.com"
-            },
-            "type": "Feature"
-        }
-    ],
-    "name": "venue",
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "address_id": "e105efb7-b0d1-4144-8b8e-72eadf95724f",
+        "alt_name": "MAC",
+        "category": "Mabry Arts Center",
+        "display_point": {
+          "coordinates": [
+              -85.08031150829534,
+              33.564958484274854
+            ],
+          "type": "Point"
+        },
+        "hours": "Su-Sa 09:00-17:00",
+        "name": {
+          "en": "Mabry Arts Center"
+        },
+        "phone": null,
+        "restriction": null,
+        "website": "https://developer.apple.com"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -85.08031150829534,
+              33.564958484274854
+            ],
+            [
+              -85.08041945825252,
+              33.564960350625284
+            ],
+            [
+              -85.08042599357648,
+              33.56520998788422
+            ],
+            [
+              -85.08081781092046,
+              33.56520707314906
+            ],
+            [
+              -85.08082387099657,
+              33.56495378499536
+            ],
+            [
+              -85.08090699699679,
+              33.56494698354595
+            ],
+            [
+              -85.0809075091332,
+              33.564681191909216
+            ],
+            [
+              -85.0803034928876,
+              33.56467965542217
+            ],
+            [
+              -85.08031150829534,
+              33.564958484274854
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
 }
